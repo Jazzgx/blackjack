@@ -1,1 +1,1 @@
-# blackjack
+This is a brief program that allows the user to play Blackjack with the system. This was made as my final project in my Introduction to Python course.
